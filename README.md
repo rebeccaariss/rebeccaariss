@@ -3,14 +3,14 @@ Hi there! 👋 I'm Rebecca.
 
 I'm a full stack web developer with 10+ years of highly interpersonal work in various roles. I aim to bring those soft skills together with technical skills to make an impact in tech! I am really looking forward to sharing knowledge and empowering others throughout my career.
 
-*📍  I'm based in Toronto
+* 📍  I'm based in Toronto
 * 🩺 Background in healthcare and hospitality
 * 🎓 [Lighthouse Labs](https://www.lighthouselabs.ca/en/employers) grad
-*💻  See my portfolio [here](http://rebeccaariss.github.io/portfolio-site/)
-*📬  You can contact me at [rebeccaariss.dev@gmail.com](mailto:rebeccaariss.dev@gmail.com)
-*👩🏼‍💻  Currently studying Next.js, Redux, Web Accessibility
-*🌱  I'm currently working on [TSX: The Toronto Seed Exchange](http://github.com/rebeccaariss/toronto-seed-exchange)
-*💬 Ask me about podcasts, books, audiobooks, video games, Lighthouse Labs bootcamp, Kitchener-Waterloo or Toronto restaurants
+* 💻  See my portfolio [here](http://rebeccaariss.github.io/portfolio-site/)
+* 📬  You can contact me at [rebeccaariss.dev@gmail.com](mailto:rebeccaariss.dev@gmail.com)
+* 👩🏼‍💻  Currently studying Next.js, Redux, Web Accessibility
+* 🌱  I'm currently working on [TSX: The Toronto Seed Exchange](http://github.com/rebeccaariss/toronto-seed-exchange)
+* 💬 Ask me about podcasts, books, audiobooks, video games, Lighthouse Labs bootcamp, Kitchener-Waterloo or Toronto restaurants
 
 ### Skills
 
