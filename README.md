@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rebecca Ariss
+Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Rebecca.
 =====================================================================================================================================
 
 Full Stack Web Developer
@@ -6,12 +6,12 @@ Full Stack Web Developer
 
 Full stack web developer with 10+ years of highly interpersonal work. I aim to bring those soft skills together with technical skills to make an impact in tech! I am really looking forward to sharing knowledge and empowering others throughout my career.
 
-* 📍  I'm based in Toronto
-* 💻  See my portfolio [here](http://rebeccaariss.github.io/portfolio-site/)
-* 📬  You can contact me at [rebeccaariss.dev@gmail.com](mailto:rebeccaariss.dev@gmail.com)
-* 👩🏼‍💻  Currently studying Next.js, Redux, Web Accessibility
-* 🌱  I'm currently working on [TSX: The Toronto Seed Exchange](http://github.com/rebeccaariss/toronto-seed-exchange)
-* 💬 Ask me about podcasts, books, audiobooks, video games, Lighthouse Labs bootcamp, Kitchener-Waterloo or Toronto restaurants
+📍  I'm based in Toronto
+💻  See my portfolio [here](http://rebeccaariss.github.io/portfolio-site/)
+📬  You can contact me at [rebeccaariss.dev@gmail.com](mailto:rebeccaariss.dev@gmail.com)
+👩🏼‍💻  Currently studying Next.js, Redux, Web Accessibility
+🌱  I'm currently working on [TSX: The Toronto Seed Exchange](http://github.com/rebeccaariss/toronto-seed-exchange)
+💬 Ask me about podcasts, books, audiobooks, video games, Lighthouse Labs bootcamp, Kitchener-Waterloo or Toronto restaurants
 
 ### Skills
 
@@ -24,9 +24,3 @@ Full stack web developer with 10+ years of highly interpersonal work. I aim to b
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/rebeccaariss" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/rebeccaariss" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="http://www.medium.com/rebeccaariss" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /> </picture> </a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/rebeccaariss"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=rebeccaariss&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
