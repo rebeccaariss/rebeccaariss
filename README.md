@@ -8,7 +8,7 @@ I'm a full stack web developer with 10+ years of highly interpersonal work in va
 🎓 [Lighthouse Labs](https://www.lighthouselabs.ca/en/employers) grad  
 💻  See my portfolio [here](http://rebeccaariss.github.io/portfolio-site/)  
 📬  You can contact me at [rebeccaariss.dev@gmail.com](mailto:rebeccaariss.dev@gmail.com)  
-👩🏼‍💻  Currently learning [Python](https://docs.python.org/3/), [Django](https://www.djangoproject.com/), and [Django REST](https://www.django-rest-framework.org/)
+👩🏼‍💻  Currently learning [Python](https://docs.python.org/3/), [Django](https://www.djangoproject.com/), and [Django REST](https://www.django-rest-framework.org/)  
 💬  Ask me about podcasts, books, audiobooks, video games, Lighthouse Labs, bootcamp, Kitchener-Waterloo or Toronto restaurants  
 
 ### Skills
