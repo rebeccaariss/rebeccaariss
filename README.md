@@ -1,19 +1,16 @@
-Hi there! 👋 I'm Rebecca.
+Hey! I'm Rebecca. ✌️
 =====================================================================================================================================
 
-I'm a full stack web developer with 10+ years of highly interpersonal work in various roles. I aim to bring those soft skills together with technical skills to make an impact in tech! I am really looking forward to sharing knowledge and empowering others throughout my career.
-
-📍  I live in Toronto  
+📍  Toronto  
+👾  Full stack web developer with 10+ years of highly interpersonal work in various roles  
 🩺  Background in healthcare and hospitality  
 🎓 [Lighthouse Labs](https://www.lighthouselabs.ca/en/employers) grad  
-💻  See my portfolio [here](http://rebeccaariss.github.io/portfolio-site/)  
+💻  Check out my portfolio [here](http://rebeccaariss.github.io/portfolio-site/)  
 📬  You can contact me at [rebeccaariss.dev@gmail.com](mailto:rebeccaariss.dev@gmail.com)  
 👩🏼‍💻  Currently learning [Python](https://docs.python.org/3/), [Django](https://www.djangoproject.com/), and [Django REST](https://www.django-rest-framework.org/)  
 💬  Ask me about podcasts, books, audiobooks, video games, Lighthouse Labs, bootcamp, Kitchener-Waterloo or Toronto restaurants  
 
-### Skills
-
-<p align="center">
+<p align="left">
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>&nbsp;
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>&nbsp;
@@ -33,9 +30,7 @@ I'm a full stack web developer with 10+ years of highly interpersonal work in va
 
 
 
-### Socials
-
-<p align="center">
+<p align="left">
     <a href="https://www.github.com/rebeccaariss" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a>&nbsp;
     <a href="https://www.linkedin.com/in/rebeccaariss" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a>&nbsp;
     <a href="http://www.medium.com/@rebeccaariss" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /> </picture> </a>
