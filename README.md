@@ -4,11 +4,12 @@ Hey! I'm Rebecca. ✌️
 📍  Toronto  
 👾  Full stack web developer with 10+ years of highly interpersonal work in various roles  
 🩺  Background in healthcare and hospitality  
-🎓 [Lighthouse Labs](https://www.lighthouselabs.ca/en/employers) grad  
+🎓  [Lighthouse Labs](https://www.lighthouselabs.ca/en/employers) grad  
+💜  Interned at [Purposely](https://purposely.co/)  
 💻  Check out my portfolio [here](http://rebeccaariss.github.io/portfolio-site/)  
 📬  You can contact me at [rebeccaariss.dev@gmail.com](mailto:rebeccaariss.dev@gmail.com)  
 👩🏼‍💻  Currently learning [Python](https://docs.python.org/3/), [Django](https://www.djangoproject.com/), and [Django REST](https://www.django-rest-framework.org/)  
-💬  Ask me about podcasts, books, audiobooks, video games, Lighthouse Labs, bootcamp, Kitchener-Waterloo or Toronto restaurants  
+💬  Ask me about Lighthouse Labs, bootcamp, internships, podcasts, books, audiobooks, video games, Kitchener-Waterloo, Toronto  
 
 <p align="left">
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>&nbsp;
