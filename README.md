@@ -6,7 +6,7 @@ Hey! I'm Rebecca. ✌️
 🩺  Background in healthcare and hospitality  
 🎓  [Lighthouse Labs](https://www.lighthouselabs.ca/en/employers) grad  
 💜  Interned at [Purposely](https://purposely.co/)  
-💻  Check out my portfolio [here](http://rebeccaariss.github.io/portfolio-site/)  
+💻  Check out my portfolio [here](http://rebeccaariss.github.io/portfolio/)  
 📬  You can contact me at [rebeccaariss.dev@gmail.com](mailto:rebeccaariss.dev@gmail.com)  
 👩🏼‍💻  Currently learning [Python](https://docs.python.org/3/), [Django](https://www.djangoproject.com/), and [Django REST](https://www.django-rest-framework.org/)  
 💬  Ask me about Lighthouse Labs, bootcamp, internships, podcasts, books, audiobooks, video games, Kitchener-Waterloo, Toronto  
